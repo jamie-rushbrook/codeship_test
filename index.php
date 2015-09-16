@@ -12,7 +12,9 @@
 			CODE SHIP TEST
 		</header>
 		<div id="content">
-			<div id="div"></div>
+			<div id="div">
+				THIS IS A TEST
+			</div>
 		</div>
 	</body>
 </html>
